@@ -9,7 +9,7 @@
   "author": "zehra",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.9"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
